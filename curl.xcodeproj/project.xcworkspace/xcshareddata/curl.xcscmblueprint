@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FDF3BEA14B2636E2BACA3A6E02D52467A62DB06C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "99A1354C7E9E69BD72AB251C9A240D05A805C92D" : 9223372036854775807,
+    "FDF3BEA14B2636E2BACA3A6E02D52467A62DB06C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "55DFA71D-C87F-4DF4-A14D-748CECA10C0A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "99A1354C7E9E69BD72AB251C9A240D05A805C92D" : "",
+    "FDF3BEA14B2636E2BACA3A6E02D52467A62DB06C" : "libCurl\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "curl",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "curl.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/leico\/commandline_userstream.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "99A1354C7E9E69BD72AB251C9A240D05A805C92D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/leico\/libcurl-xcode.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FDF3BEA14B2636E2BACA3A6E02D52467A62DB06C"
+    }
+  ]
+}
